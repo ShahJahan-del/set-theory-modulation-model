@@ -1,0 +1,1544 @@
+
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Andantino",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "E",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "B",
+  "Target_Mode (TM)": "Locrian (A#)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Andantino",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "E",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "G#",
+  "Target_Mode (TM)": "Phrygian Dominant (D#)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Andantino",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "E",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "C#",
+  "Target_Mode (TM)": "Phrygian Dominant (G#)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Andantino",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "C#",
+  "Start_Mode (SM)": "Phrygian Dominant (G#)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "A",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Andantino",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "A",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Andantino",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "E",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Andantino",
+  "Start_Set (SS)": "Ionian",
+  "Start_Transposition (ST)": "Diatonic",
+  "Start_Mode (SM)": "E",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "A",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Andantino",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "A",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Andantino",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "E",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Andantino",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "E",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "F#",
+  "Target_Mode (TM)": "Harmonic Minor"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Andantino",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "F#",
+  "Start_Mode (SM)": "Harmonic Minor",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "E",
+  "Target_Mode (TM)": "Ionian"
+ },
+ null,
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Mixolydian (D)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Mixolydian (A)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Mixolydian (A)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Mixolydian (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Mixolydian (D)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "B",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "B",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "B",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "B",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "B",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "B",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Eb",
+  "Target_Mode (TM)": "Lydian (Bb)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Ab",
+  "Start_Mode (SM)": "Mixolydian (Eb)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Lydian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Locrian (B)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "B",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "B",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Lydian (F)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Lydian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Deux_Arabesques_Allegretto",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Ionian"
+ },
+ null,
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Dorian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Bb",
+  "Target_Mode (TM)": "Mixolydian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Bb",
+  "Start_Mode (SM)": "Mixolydian (F)",
+  "Target_Set (TS)": "Whole Tone",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "WT1"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Whole Tone",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "WT1",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Dorian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Dorian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Eb",
+  "Target_Mode (TM)": "Aeolian (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Eb",
+  "Start_Mode (SM)": "Aeolian (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Eb",
+  "Target_Mode (TM)": "Aeolian (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Eb",
+  "Start_Mode (SM)": "Aeolian (C)",
+  "Target_Set (TS)": "Hexatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Hex(0, 3)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Hexatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Hex(0, 3)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Aeolian (A)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Aeolian (A)",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "A",
+  "Target_Mode (TM)": "Harmonic Minor"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "A",
+  "Start_Mode (SM)": "Harmonic Minor",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "A",
+  "Target_Mode (TM)": "Phrygian Dominant (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "A",
+  "Start_Mode (SM)": "Phrygian Dominant (E)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "A",
+  "Target_Mode (TM)": "Phrygian Dominant (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "A",
+  "Start_Mode (SM)": "Phrygian Dominant (E)",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Dorian b2 (B)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Dorian b2 (B)",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "A",
+  "Target_Mode (TM)": "Phrygian Dominant (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "A",
+  "Start_Mode (SM)": "Phrygian Dominant (E)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "E",
+  "Target_Mode (TM)": "Mixolydian (B)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "E",
+  "Start_Mode (SM)": "Mixolydian (B)",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "A",
+  "Target_Mode (TM)": "Melodic Minor (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "A",
+  "Start_Mode (SM)": "Melodic Minor (E)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Mixolydian (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Mixolydian (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Dorian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Dorian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Bb",
+  "Target_Mode (TM)": "Lydian (Eb)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Bb",
+  "Start_Mode (SM)": "Lydian (Eb)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Mixolydian (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Mixolydian (D)",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Phrygian Dominant (A)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Reverie",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Phrygian Dominant (A)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ },
+ null,
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Mixolydian (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Aeolian (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Aeolian (D)",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "A",
+  "Target_Mode (TM)": "Phrygian Dominant (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "A",
+  "Start_Mode (SM)": "Phrygian Dominant (E)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Phrygian (A)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Phrygian (A)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Lydian (Bb)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Lydian (Bb)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Dorian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Dorian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Mixolydian (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Mixolydian (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Bb",
+  "Target_Mode (TM)": "Mixolydian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Bb",
+  "Start_Mode (SM)": "Mixolydian (F)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Lydian (Bb)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Lydian (Bb)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Dorian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Dorian (G)",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "Bb",
+  "Target_Mode (TM)": "Dorian b2 (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "Bb",
+  "Start_Mode (SM)": "Dorian b2 (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Lydian (Bb)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Lydian (Bb)",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Phrygian Dominant (A)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Phrygian Dominant (A)",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "Bb",
+  "Target_Mode (TM)": "Lydian Augmented (Ab)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "Bb",
+  "Start_Mode (SM)": "Lydian Augmented (Ab)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Locrian (F#)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Locrian (F#)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Mixolydian (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Mixolydian (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Bb",
+  "Target_Mode (TM)": "Mixolydian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Bb",
+  "Start_Mode (SM)": "Mixolydian (F)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Lydian (Bb)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Lydian (Bb)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Lydian (Bb)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Lydian (Bb)",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Phrygian Dominant (A)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Phrygian Dominant (A)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Eb",
+  "Target_Mode (TM)": "Aeolian (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Eb",
+  "Start_Mode (SM)": "Aeolian (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Dorian (A)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Dorian (A)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Eb",
+  "Target_Mode (TM)": "Aeolian (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Eb",
+  "Start_Mode (SM)": "Aeolian (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Aeolian (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Aeolian (D)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Eb",
+  "Target_Mode (TM)": "Aeolian (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Eb",
+  "Start_Mode (SM)": "Aeolian (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Db",
+  "Target_Mode (TM)": "Mixolydian (Ab)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Db",
+  "Start_Mode (SM)": "Mixolydian (Ab)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Gb",
+  "Target_Mode (TM)": "Locrian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Gb",
+  "Start_Mode (SM)": "Locrian (F)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Gb",
+  "Target_Mode (TM)": "Locrian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Gb",
+  "Start_Mode (SM)": "Locrian (F)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Gb",
+  "Target_Mode (TM)": "Locrian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Gb",
+  "Start_Mode (SM)": "Locrian (F)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Gb",
+  "Target_Mode (TM)": "Mixolydian (Db)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Gb",
+  "Start_Mode (SM)": "Mixolydian (Db)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Mixolydian (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Mixolydian (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Dorian (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Dorian (D)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Dorian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Dorian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Lydian (Bb)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Lydian (Bb)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Dorian (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Dorian (D)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "A",
+  "Target_Mode (TM)": "Phrygian Dominant (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "A",
+  "Start_Mode (SM)": "Phrygian Dominant (E)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Lydian (Bb)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Lydian (Bb)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Dorian (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Dorian (D)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Mixolydian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Mixolydian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Bb",
+  "Target_Mode (TM)": "Mixolydian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Bb",
+  "Start_Mode (SM)": "Mixolydian (F)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Dorian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Dorian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Bb",
+  "Target_Mode (TM)": "Mixolydian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Bb",
+  "Start_Mode (SM)": "Mixolydian (F)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Dorian (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Dorian (D)",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Mixolydian b6 (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Mixolydian b6 (E)",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Dorian b2 (B)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Dorian b2 (B)",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Mixolydian b6 (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Mixolydian b6 (E)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Dorian (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Dorian (D)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Phrygian (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Phrygian (E)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Dorian (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Dorian (D)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "C",
+  "Target_Mode (TM)": "Lydian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "C",
+  "Start_Mode (SM)": "Lydian (F)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "E",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "E",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "A",
+  "Target_Mode (TM)": "Mixolydian (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "A",
+  "Start_Mode (SM)": "Mixolydian (E)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "E",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "E",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Dorian (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Dorian (E)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "E",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "E",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "B",
+  "Target_Mode (TM)": "Phrygian (D#)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "B",
+  "Start_Mode (SM)": "Phrygian (D#)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "B",
+  "Target_Mode (TM)": "Dorian (C#)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "B",
+  "Start_Mode (SM)": "Dorian (C#)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "B",
+  "Target_Mode (TM)": "Aeolian (G#)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "B",
+  "Start_Mode (SM)": "Aeolian (G#)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "E",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "E",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "A",
+  "Target_Mode (TM)": "Mixolydian (E)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "A",
+  "Start_Mode (SM)": "Mixolydian (E)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "E",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "E",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Lydian Augmented (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Lydian Augmented (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "E",
+  "Target_Mode (TM)": "Phrygian (G#)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "E",
+  "Start_Mode (SM)": "Phrygian (G#)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F#",
+  "Target_Mode (TM)": "Phrygian (A#)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F#",
+  "Start_Mode (SM)": "Phrygian (A#)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Gb",
+  "Target_Mode (TM)": "Locrian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Gb",
+  "Start_Mode (SM)": "Locrian (F)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Gb",
+  "Target_Mode (TM)": "Mixolydian (Db)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Gb",
+  "Start_Mode (SM)": "Mixolydian (Db)",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Major #5 (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Major #5 (F)",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Harmonic minor (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Harmonic minor (D)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Lydian (Bb)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Lydian (Bb)",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Major #5 (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Major #5 (F)",
+  "Target_Set (TS)": "Harmonic Minor",
+  "Target_Transposition (TT)": "D",
+  "Target_Mode (TM)": "Harmonic minor (D)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Harmonic Minor",
+  "Start_Transposition (ST)": "D",
+  "Start_Mode (SM)": "Harmonic minor (D)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "Bb",
+  "Target_Mode (TM)": "Mixolydian (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "Bb",
+  "Start_Mode (SM)": "Mixolydian (F)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Lydian (Bb)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Lydian (Bb)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Dorian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Dorian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Mixolydian (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Mixolydian (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Lydian Augmented (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Lydian Augmented (F)",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Lydian Dominant (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Lydian Dominant (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Lydian Augmented (F)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Lydian Augmented (F)",
+  "Target_Set (TS)": "Acoustic",
+  "Target_Transposition (TT)": "G",
+  "Target_Mode (TM)": "Lydian Dominant (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Acoustic",
+  "Start_Transposition (ST)": "G",
+  "Start_Mode (SM)": "Lydian Dominant (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Ionian",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Dorian (G)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Dorian (G)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Mixolydian (C)"
+ },
+ {
+  "Composer (C)": "Debussy",
+  "Work (W)": "Ballade",
+  "Start_Set (SS)": "Diatonic",
+  "Start_Transposition (ST)": "F",
+  "Start_Mode (SM)": "Mixolydian (C)",
+  "Target_Set (TS)": "Diatonic",
+  "Target_Transposition (TT)": "F",
+  "Target_Mode (TM)": "Ionian"
+ }
